@@ -18,7 +18,7 @@ $dbuser = 'codesd_user_ecommerce';
 $dbpass = 'K+b#SQ7K]25Z';
 
 // Defining base url
-define("BASE_URL", "https://ecommerce.code200.sd/");
+define("BASE_URL", "http://127.0.0.1");
 
 // Getting Admin url
 define("ADMIN_URL", BASE_URL . "admin" . "/");
