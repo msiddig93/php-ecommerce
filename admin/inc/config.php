@@ -9,16 +9,16 @@ date_default_timezone_set('Asia/Dubai');
 $dbhost = 'localhost';
 
 // Database Name
-$dbname = 'fashiony_ogs';
+$dbname = 'codesd_ecommerce';
 
 // Database Username
-$dbuser = 'root';
+$dbuser = 'codesd_user_ecommerce';
 
 // Database Password
-$dbpass = '';
+$dbpass = 'K+b#SQ7K]25Z';
 
 // Defining base url
-define("BASE_URL", "http://127.0.0.1/ecommerce/");
+define("BASE_URL", "https://ecommerce.code200.sd/");
 
 // Getting Admin url
 define("ADMIN_URL", BASE_URL . "admin" . "/");
